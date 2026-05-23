@@ -11,7 +11,7 @@ Repositorio de actividades y evidencias desarrolladas durante el curso de Progra
 ## Temas trabajados (Portafolio de Evidencias)
 Aquí puedes acceder a la documentación y código de cada actividad realizada:
 
-* 📂 **[Actividad 1: Tipos de Datos](./actividad_01_tipos_datos/codigo/)** 
+* 📂 **[Actividad 1: Tipos de Datos](/actividad_01_tipos_datos/codigo/)** 
 * 📂 **[Actividad 2: Operadores](./actividad_02_operadores/codigo/)**
 * 📂 **[Actividad 3: Condicionales](./actividad_03_condicionales/codigo/)**
 * 📂 **[Actividad 4: Ciclos](./actividad_04_ciclos/codigo/)**
